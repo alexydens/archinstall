@@ -46,3 +46,18 @@
 - `git clone https://aur.archlinux.org/yay.git`
 - `cd yay && makepkg -si`
 - `yay -Syu`
+## Packages
+### Audio
+- `pamixer`
+- `pipewire`
+- `wireplumber`
+- `pipewire-jack`
+- `pipewire-pulse`
+### Bluetooth
+- `bluez`
+- `bluez-deprecated-tools` or `bluez-utils`
+- `blueman`
+### Internet
+- `network-manager`
+- `iw`
+- `net-tools`
